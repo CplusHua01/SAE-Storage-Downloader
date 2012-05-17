@@ -1,0 +1,11 @@
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\bin\Debug\下载器.exe
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\bin\Debug\下载器.pdb
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\bin\Debug\下载器.xml
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\obj\x86\Debug\下载器.Form1.resources
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\obj\x86\Debug\下载器.Resources.resources
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\obj\x86\Debug\下载器.exe
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\obj\x86\Debug\下载器.xml
+D:\工程\VB.NET软件工程\下载器\下载器\下载器\obj\x86\Debug\下载器.pdb
